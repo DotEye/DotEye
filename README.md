@@ -1,8 +1,10 @@
-Here you can find the source code to all of my projects.
+I write and publish software that I think you'll find cool.
+
+My website: [doteye.online](https://doteye.online)
 
 Socials:
-- [Discord Server](https://discord.gg/tykwEuuYCt)
 - [YouTube](https://www.youtube.com/DotEyeOnline)
-- [Twitter](https://twitter.com/DotEyeOnline)
-- [Reddit](https://reddit.com/u/DotEyeOnline)
 - [TikTok](https://www.tiktok.com/@doteyeonline)
+- [Discord Server](https://discord.gg/tykwEuuYCt)
+- [Reddit](https://reddit.com/u/DotEyeOnline)
+- [Twitter](https://twitter.com/DotEyeOnline)
